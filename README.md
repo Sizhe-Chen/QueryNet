@@ -1,6 +1,8 @@
 # Decription
-* The code is the official implementation of [QueryNet: Attack by Multi-Identity Surrogates](https://arxiv.org/abs/2105.15010), supporting attack on
-* MNIST    victim: resnet_preact,  wrn,        densenet
+* The code is the official implementation of [QueryNet: Attack by Multi-Identity Surrogates](https://arxiv.org/abs/2105.15010)
+* Authors: [Sizhe Chen](https://sizhechen.top), Zhehao Huang, Qinghua Tao, [Xiaolin Huang](http://www.pami.sjtu.edu.cn/en/xiaolin)
+* This repository supports attack on
+* MNIST    victim: resnet_preact,  densenet
 * CIFAR10  victim: wrn-28-10-drop, gdas,       pyramidnet272
 * ImageNet victim: inception_v3,   mnasnet1_0, resnext101_32x8d
 * The experiments require 4 GPUs, each with 10G+ memory, and the CPU memory is better to be over 32G.
@@ -100,6 +102,6 @@ python querynet.py --model=wrn-28-10-drop --eps=16 --gpu=0,1,2,3,4,5 --num_srg=5
 ```
 
 # 3rd party code
-* [Subpace Attack](https://github.com/ZiangYan/subspace-attack.pytorch)
+* [Subspace Attack](https://github.com/ZiangYan/subspace-attack.pytorch)
 * [PC-DARTS](https://github.com/yuhuixu1993/PC-DARTS)
 * [pytorch_image_classification](https://github.com/hysts/pytorch_image_classification)
