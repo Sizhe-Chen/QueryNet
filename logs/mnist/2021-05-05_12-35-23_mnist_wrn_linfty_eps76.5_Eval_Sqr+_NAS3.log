@@ -1,0 +1,46 @@
+2021-05-05_12-35-23_MIDA_IFTY1_wrn_HRZ1_RND1_NAS_Eps76
+Authority    0.973  0.968  0.983  0.947  0.000  
+ChosenRate   0.130  0.745  0.124  0.002  0.000  
+1: acc=49.21% acc_corr=49.50% avg#q_ae=2.96 med#q=2.0, avg_margin=-0.60, buff=29619, n_ex=9941, eps=76.500, 1695.48s
+Authority    0.884  0.885  0.867  0.830  0.000  
+ChosenRate   0.274  0.287  0.257  0.182  0.000  
+2: acc=20.70% acc_corr=20.82% avg#q_ae=3.34 med#q=2.0, avg_margin=-3.28, buff=34540, n_ex=9941, eps=76.500, 2715.76s
+Authority    0.826  0.809  0.838  0.685  0.000  
+ChosenRate   0.234  0.293  0.271  0.202  0.000  
+3: acc=9.68% acc_corr=9.74% avg#q_ae=3.54 med#q=2.0, avg_margin=-4.24, buff=36610, n_ex=9941, eps=76.500, 3160.27s
+Authority    0.846  0.790  0.869  0.641  0.000  
+ChosenRate   0.228  0.295  0.252  0.224  0.000  
+4: acc=4.72% acc_corr=4.75% avg#q_ae=3.67 med#q=2.0, avg_margin=-4.66, buff=37578, n_ex=9941, eps=76.500, 3443.74s
+Authority    0.618  0.724  0.649  0.400  0.000  
+ChosenRate   0.233  0.360  0.206  0.201  0.000  
+5: acc=2.74% acc_corr=2.76% avg#q_ae=3.74 med#q=2.0, avg_margin=-4.82, buff=38050, n_ex=9941, eps=76.500, 3679.48s
+Authority    0.718  0.740  0.737  0.655  0.000  
+ChosenRate   0.310  0.281  0.208  0.201  0.000  
+6: acc=1.40% acc_corr=1.41% avg#q_ae=3.80 med#q=2.0, avg_margin=-4.92, buff=38324, n_ex=9941, eps=76.500, 3876.20s
+Authority    0.519  0.404  0.500  0.233  0.000  
+ChosenRate   0.193  0.336  0.257  0.214  0.000  
+7: acc=1.03% acc_corr=1.04% avg#q_ae=3.82 med#q=2.0, avg_margin=-4.96, buff=38464, n_ex=9941, eps=76.500, 4064.28s
+Authority    0.471  0.730  0.875  0.303  0.000  
+ChosenRate   0.165  0.359  0.155  0.320  0.000  
+8: acc=0.73% acc_corr=0.73% avg#q_ae=3.83 med#q=2.0, avg_margin=-4.98, buff=38567, n_ex=9941, eps=76.500, 4246.56s
+Authority    0.429  0.429  0.643  0.208  0.000  
+ChosenRate   0.096  0.384  0.192  0.329  0.000  
+9: acc=0.53% acc_corr=0.53% avg#q_ae=3.85 med#q=2.0, avg_margin=-5.00, buff=38640, n_ex=9941, eps=76.500, 4429.39s
+Authority    0.636  0.625  0.471  0.176  0.000  
+ChosenRate   0.208  0.151  0.321  0.321  0.000  
+10: acc=0.36% acc_corr=0.36% avg#q_ae=3.86 med#q=2.0, avg_margin=-5.02, buff=38693, n_ex=9941, eps=76.500, 4607.25s
+Authority    0.000  0.333  0.545  0.300  0.000  
+ChosenRate   0.167  0.250  0.306  0.278  0.000  
+11: acc=0.32% acc_corr=0.32% avg#q_ae=3.87 med#q=2.0, avg_margin=-5.02, buff=38729, n_ex=9941, eps=76.500, 4778.38s
+Authority    0.000  0.308  0.545  0.000  0.000  
+ChosenRate   0.125  0.406  0.344  0.125  0.000  
+12: acc=0.26% acc_corr=0.26% avg#q_ae=3.87 med#q=2.0, avg_margin=-5.02, buff=38761, n_ex=9941, eps=76.500, 4951.32s
+Authority    0.000  0.154  0.429  0.000  0.000  
+ChosenRate   0.077  0.500  0.269  0.154  0.000  
+13: acc=0.20% acc_corr=0.20% avg#q_ae=3.88 med#q=2.0, avg_margin=-5.03, buff=38787, n_ex=9941, eps=76.500, 5125.18s
+Authority    0.667  0.000  0.500  0.000  0.000  
+ChosenRate   0.450  0.100  0.300  0.150  0.000  
+14: acc=0.11% acc_corr=0.11% avg#q_ae=3.89 med#q=2.0, avg_margin=-5.04, buff=38807, n_ex=9941, eps=76.500, 5291.87s
+Authority    0.000  0.000  0.000  0.000  0.000  
+ChosenRate   0.364  0.182  0.273  0.182  0.000  
+15: acc=0.08% acc_corr=0.08% avg#q_ae=3.89 med#q=2.0, avg_margin=-5.04, buff=38818, n_ex=9941, eps=76.500, 5463.42s

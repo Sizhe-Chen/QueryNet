@@ -1,0 +1,45 @@
+2021-05-08_13-06-23_MIDA_IFTY1_easydlmnist_HRZ1_RND1_NAS_Eps76
+Authority    0.966  0.948  0.975  0.893  0.000  
+ChosenRate   0.322  0.263  0.348  0.068  0.000  
+1: acc=6.67% acc_corr=6.78% avg#q_ae=2.20 med#q=1.0, avg_margin=-0.59, buff=22164, n_ex=9835, eps=76.500, 433.55s
+Authority    0.842  0.873  0.907  0.667  0.000  
+ChosenRate   0.219  0.367  0.162  0.252  0.000  
+2: acc=3.19% acc_corr=3.24% avg#q_ae=2.27 med#q=1.0, avg_margin=-0.63, buff=22831, n_ex=9835, eps=76.500, 644.88s
+Authority    0.581  0.735  0.754  0.397  0.000  
+ChosenRate   0.194  0.414  0.179  0.213  0.000  
+3: acc=1.85% acc_corr=1.88% avg#q_ae=2.30 med#q=1.0, avg_margin=-0.64, buff=23150, n_ex=9835, eps=76.500, 817.37s
+Authority    0.700  0.600  0.484  0.469  0.000  
+ChosenRate   0.270  0.297  0.168  0.265  0.000  
+4: acc=1.07% acc_corr=1.09% avg#q_ae=2.33 med#q=1.0, avg_margin=-0.64, buff=23335, n_ex=9835, eps=76.500, 973.52s
+Authority    0.588  0.333  0.571  0.294  0.000  
+ChosenRate   0.159  0.393  0.131  0.318  0.000  
+5: acc=0.76% acc_corr=0.77% avg#q_ae=2.35 med#q=1.0, avg_margin=-0.64, buff=23442, n_ex=9835, eps=76.500, 1118.21s
+Authority    0.688  0.542  0.333  0.519  0.000  
+ChosenRate   0.211  0.316  0.118  0.355  0.000  
+6: acc=0.56% acc_corr=0.57% avg#q_ae=2.36 med#q=1.0, avg_margin=-0.65, buff=23518, n_ex=9835, eps=76.500, 1259.13s
+Authority    0.222  0.458  0.500  1.000  0.000  
+ChosenRate   0.161  0.429  0.214  0.196  0.000  
+7: acc=0.33% acc_corr=0.34% avg#q_ae=2.37 med#q=1.0, avg_margin=-0.65, buff=23574, n_ex=9835, eps=76.500, 1397.18s
+Authority    0.222  0.458  0.500  0.000  0.483  
+ChosenRate   0.000  0.000  0.000  0.121  0.879  
+8: acc=0.24% acc_corr=0.24% avg#q_ae=2.38 med#q=1.0, avg_margin=-0.65, buff=23607, n_ex=9835, eps=76.500, 1401.63s
+Authority    0.000  0.857  0.500  0.429  0.483  
+ChosenRate   0.167  0.292  0.250  0.292  0.000  
+9: acc=0.11% acc_corr=0.11% avg#q_ae=2.39 med#q=1.0, avg_margin=-0.65, buff=23631, n_ex=9835, eps=76.500, 1534.24s
+Authority    0.000  0.333  0.000  0.000  0.483  
+ChosenRate   0.000  0.818  0.091  0.091  0.000  
+10: acc=0.08% acc_corr=0.08% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1666.34s
+11: acc=0.06% acc_corr=0.06% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1667.50s
+12: acc=0.06% acc_corr=0.06% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1668.26s
+13: acc=0.05% acc_corr=0.05% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1671.18s
+14: acc=0.03% acc_corr=0.03% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1671.96s
+15: acc=0.03% acc_corr=0.03% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1672.31s
+16: acc=0.02% acc_corr=0.02% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1672.80s
+17: acc=0.02% acc_corr=0.02% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1673.09s
+18: acc=0.02% acc_corr=0.02% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1673.43s
+19: acc=0.02% acc_corr=0.02% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1673.72s
+20: acc=0.02% acc_corr=0.02% avg#q_ae=2.40 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1674.17s
+21: acc=0.01% acc_corr=0.01% avg#q_ae=2.41 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1674.43s
+22: acc=0.01% acc_corr=0.01% avg#q_ae=2.41 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1674.70s
+23: acc=0.01% acc_corr=0.01% avg#q_ae=2.41 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1675.00s
+24: acc=0.00% acc_corr=0.00% avg#q_ae=2.41 med#q=1.0, avg_margin=-0.65, buff=23642, n_ex=9835, eps=76.500, 1675.28s
