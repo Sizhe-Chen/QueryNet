@@ -1,0 +1,13 @@
+python==3.7.9
+future==0.18.2
+matplotlib==3.2.2
+numpy==1.19.2
+opencv-python==4.1.1.26
+pillow==8.0.1
+prettytable==2.0.0
+scipy==1.5.2
+torch==1.2.0
+torchvision==0.4.0
+yacs==0.1.8
+cudnn==7.6.5
+cudatoolkit==10.0.130
